@@ -1,13 +1,57 @@
 
-body{
-  box-sizing: border-box;
-  text-align: center;
+header{
+	margin: 0;
+	background-color: white;
 }
 
-h1{
+body
+	background: url(../images/farmer.png);
+	margin width :960px;
+}
 
-	background: #ccc;
+
+
+h1
+	background: #4aaaa5;
+	padding: 30px;
+	width: 33.3%;
+	float: left;
+
+}
+#nav
+	background-color:white;
+	padding: 50px;
+	margin-top: 0px;
+
+}
+
+.container{
+	padding: 30px;
+	float: top;
+}
+
+-------------------------------------
+h3
+	
+	
 	padding: 20px;
-	margin-bottom: 20px;
-	color: #333;
+	
+
+}
+
+
+
+------------------------------
+#connect
+	
+	top: 40px;
+	right: 40px;
+	background-color: white;
+	border: 1px solid: #eee;
+	width: 270px;
+}
+
+#social-icon
+	width: 30px;
+	margin: 30px 30px 30px 30px;
 }
